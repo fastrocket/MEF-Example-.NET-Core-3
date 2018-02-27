@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.ComponentModel.Composition" Version="4.5.0-preview2-26227-01" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="CalculatorContract">
+      <HintPath>..\..\CalculatorContract\bin\Debug\netstandard2.0\CalculatorContract.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

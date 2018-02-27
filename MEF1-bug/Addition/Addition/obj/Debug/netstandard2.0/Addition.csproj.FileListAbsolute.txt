@@ -1,0 +1,11 @@
+C:\Users\melnikov\source\repos\MEF1-bug\Addition\Addition\bin\Debug\netstandard2.0\Addition.deps.json
+C:\Users\melnikov\source\repos\MEF1-bug\Addition\Addition\bin\Debug\netstandard2.0\Addition.dll
+C:\Users\melnikov\source\repos\MEF1-bug\Addition\Addition\bin\Debug\netstandard2.0\CalculatorContract.dll
+C:\Users\melnikov\source\repos\MEF1-bug\Addition\Addition\bin\Debug\netstandard2.0\CalculatorContract.pdb
+C:\Users\melnikov\source\repos\MEF1-bug\Addition\Addition\obj\Debug\netstandard2.0\Addition.csprojResolveAssemblyReference.cache
+C:\Users\melnikov\source\repos\MEF1-bug\Addition\Addition\obj\Debug\netstandard2.0\Addition.csproj.CoreCompileInputs.cache
+C:\Users\melnikov\source\repos\MEF1-bug\Addition\Addition\obj\Debug\netstandard2.0\Addition.AssemblyInfoInputs.cache
+C:\Users\melnikov\source\repos\MEF1-bug\Addition\Addition\obj\Debug\netstandard2.0\Addition.AssemblyInfo.cs
+C:\Users\melnikov\source\repos\MEF1-bug\Addition\Addition\bin\Debug\netstandard2.0\Addition.pdb
+C:\Users\melnikov\source\repos\MEF1-bug\Addition\Addition\obj\Debug\netstandard2.0\Addition.dll
+C:\Users\melnikov\source\repos\MEF1-bug\Addition\Addition\obj\Debug\netstandard2.0\Addition.pdb
