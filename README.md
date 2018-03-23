@@ -27,3 +27,4 @@
     to the ..\MEF1-bug\ExportComponents\Components
   - run MEF1-bug.sln solution
 - MEF doesn't work.
+- Updated on 23.03.2018: the bug was patched in 4.5.0-preview3-26323-01 System.ComponentModel.Composition
